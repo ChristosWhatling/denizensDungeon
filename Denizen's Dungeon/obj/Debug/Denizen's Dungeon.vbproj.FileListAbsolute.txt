@@ -1,0 +1,12 @@
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\bin\Debug\Denizen's Dungeon.exe.config
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\bin\Debug\Denizen's Dungeon.exe
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\bin\Debug\Denizen's Dungeon.pdb
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\bin\Debug\Denizen's Dungeon.xml
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.vbproj.AssemblyReference.cache
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.vbproj.SuggestedBindingRedirects.cache
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen_s_Dungeon.Resources.resources
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.vbproj.GenerateResource.cache
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.vbproj.CoreCompileInputs.cache
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.exe
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.xml
+D:\Game Dev Stuff\Denizen's Dungeon\2023 Final Build\Denizen's Dungeon\Denizen's Dungeon\obj\Debug\Denizen's Dungeon.pdb

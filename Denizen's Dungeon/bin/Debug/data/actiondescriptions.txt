@@ -1,0 +1,121 @@
+Do nothing.
+Deal 3 damage to target enemy.
+Gain Hardened 2.
+Leave combat.
+Increase your Max Quintessence by 1.
+Choose a action in your hand and shuffle it and 4 extra copies of it into your deck.
+Decrease your Max Qu by 1, down to a minimum of 0. Gain 4 Qu.
+Void a copy of this and draw an action. Then, if there are 5 copies of this in your furthest ring, gain infinite Max Quintessence, and refill your Quintessence.
+Repeat the next action you play.
+Draw 3 actions.
+Move an action from your registry to your hand, then shuffle your registry.
+Heal yourself for 20% of your max health.
+Heal each enemy to full health; for every 10 health healed this way, increase your Max Qu by 1 and heal yourself for 5.
+Gain 1 Qu for each alive enemy.
+Deal 2 damage to each enemy, then average each enemies current health. Enemies can't go above their maximum health this way.
+Increase your Max Quintessence by 3 and void your registry.
+If your deathbed and registry are both empty, deal 1000 to target enemy, then shuffle all of your actions (whereever they are) into your registry. Else, void your hand, not including this.
+Add your deathbed to your hand.
+Choose an action in your hand. That action's effect occurs after each action played this turn.
+End your current turn, and immediately take an extra turn.
+The next time you would draw actions besides at the start of your turn, draw twice as many.
+Play the top action of your registry for free.
+Gain Puissance 1.
+Draw an action.
+Swap your hand with your voided cards, then draw an action for every card swapped.
+Increase your actions drawn each turn by 1.
+Gain Invulnerable 2 and Unable 2.
+Double your max HP, then heal 5% of your max health.
+Increase your Max Quintessence by 2, then give yourself Wither 3.
+Become invincible for the rest of the turn, then take 1000 damage.
+Take 1000 damage.
+Lower all enemies Max HP to their current HP.
+Unused.
+Unused.
+Unused.
+Unused.
+Unused.
+Swap all of your stats around and increase one of them by 1. (Permanently!)
+Deal 23 damage.
+Deal 7 damage and draw two actions.
+Deal 5X damage.
+Deal 7 damage.
+Deal 50 damage!
+Deal 5 damage and inflict Confuse 1.
+Inflict Nonhardy 1, then deal 4 damage.
+Deal 5 damage, then gain Sinew 1.
+Deal 5 - 10 damage.
+Inflict Confuse 3.
+Deal 10 damage and inflict Confuse 1 onto all enemies.
+Discard your hand, then draw equal to the number of actions discarded.
+Draw X, then deal damage to target enemy equal to total Qu cost of all drawn actions.
+Draw 1, then Draw equal to the Qu cost of the drawn action.
+Play a random action from your hand without paying its Qu cost.
+Reveal the top 4 actions from your registry. If any of them share Qu costs, play them both for free. Else, add them to your hand.
+Inflict 4 poison upon target enemy.
+Deal 4 damage 3 times, choosing targets each time.
+Status effects stop decreasing for 3 turns.
+Place your deathbed ontop of your registry.
+Draw back up to your hand size.
+Draw until you have drawn actions of total Qu cost 6 or more.
+Draw 5 actions, void any of them with Qu costs of 1 or less.
+Shuffle a copy of your registry into itself.
+Deal 1 damage to a random enemy, 25 times.
+Half target enemy's Max HP, then fully heal them.
+Deal 10 damage to all enemies and lower their Max HP to thier current HP.
+Deal 18 damage to an enemy and prevent any status effects they have from decreasing for 3 turns.
+Discard your hand, then inflict Poison equal to double the amount of actions you discarded.
+Banish an enemy.
+Emerge victorious.
+Inflict Wither 3.
+Inflict Wither 1 to all enemies, and Poison 8 to target enemy
+Inflict Poison 3.
+Turn all Poison on enemies into Wither.
+Double all Poison & Wither effects on target enemy.
+Double target enemy's grist drop.
+Inflict 2X Wither to each enemy, and 2X Poison to yourself.
+Transfer all negative status effects from yourself to target enemy.
+Remove all status effects from yourself.
+Deal 9 damage and inflict 3 Poison and Wither.
+Inflict Wither to each enemy equal to a quarter of their current health.
+Leave an enemy at 1 health.
+Draw a action and increase your Max Quintessence by 1.
+Increase your Max Quintessence by X.
+Increase your Max Quintessence by 1 for each enemy with Poison or Wither.
+Increase your Max Quintessence by 2 for each enemy with more health than you.
+Increase your Max Quintessence by 1, and increase your actions drawn each turn by 1.
+Gain 3 Qu and 3 Wither.
+Gain 2 Qu and take 5 damage.
+Gain 2 Qu, generate 2 less Qu next turn.
+Inflict Unable 3 to an enemy and gain a copy of thier grist drop.
+Kill an enemy, but gain no grist from them.
+Draw X, and generate X additional Qu next turn.
+Deal 18 damage and gain 20 Grist.
+Inflict Vulnerable 3.
+Inflict Poison 2, and make all status effects increase instead of decrease at the end of turns for 2 turns.
+Shuffle a copy of your hand into your deathbed.
+Shuffle your deathbed into your registry.
+If you have 200 or more actions in your registry, kill all enemies.
+Take an extra turn after this one.
+Gain 3 Qu.
+Draw 3 actions.
+Discard your hand.
+All damage taken from enemies until next turn is reflected evenly between them.
+Lose half of your HP and kill an enemy.
+Discard an action, and play an action from your registry for free.
+Draw 1 extra action on your next turn for each alive enemy.
+Force an enemy to idle on their next turn.
+Force all enemies to idle on their next turn.
+Draw 2 actions.
+Gain 1 Qu.
+Inflict Unable 2 to yourself and all enemies.
+Deal 6 damage. If this kills, increase all stats by 2.
+If your hand is comprised of 10 unique actions, kill all enemies.
+Play the top two actions from your registry.
+Draw an action, then add a permanent copy of this to your hand.
+If it is your first turn, kill an enemy.
+Heal for 25% of your max health.
+Fully heal yourself.
+Heal for 10X% of your max health.
+Increase your Max Health by 10% and heal 15%.
+Heal for 5% of your max health.
