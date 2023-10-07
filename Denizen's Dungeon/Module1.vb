@@ -22,7 +22,7 @@
     Public theDungeon As New List(Of DungeonFloor)
 
     Public currentlyPlayingTrack As String = ""
-    Public isMusicMuted As Boolean = True
+    Public isMusicMuted As Boolean = False
     Public menuMusicOnLaunch As Boolean = True
 
     'Entire Party Variables
@@ -5112,11 +5112,26 @@
         'BlankLine()
         'Next
 
-        Dim debugTest As Integer = 2147483630
+        Dim endLoop As Boolean = False
+        Dim currentTrack As Integer = 0
         Do
-            debugTest += 1
-            Console.WriteLine(debugTest)
-        Loop
+            Console.Write("Sound Test: ")
+            'SoundTest(getCleanNumericalInput(Console.ReadLine()))
+            Select Case LCase(SoundTest(currentTrack))
+                Case "a"
+                    currentTrack -= 1
+                    If currentTrack < 0 Then
+                        currentTrack = 37
+                    End If
+                Case "d"
+                    currentTrack += 1
+                    If currentTrack > 37 Then
+                        currentTrack = 0
+                    End If
+                Case "0"
+                    endLoop = True
+            End Select
+        Loop Until endLoop
 
     End Sub
 
@@ -5333,18 +5348,16 @@
         Return areAlive
     End Function
 
-    Public Sub SoundTest()
-        Dim playerInput As String
-        Do
-            Console.WriteLine("Enter the name of a track to listen to it.")
-            Console.WriteLine("0 - Quit")
-            BlankLine()
-            playerInput = getCleanNumericalInput()
-            If playerInput <> "0" Then
-                PlayMusic(playerInput, True)
-            End If
-        Loop Until playerInput = "0"
-    End Sub
+    Public Function SoundTest(input As Integer)
+        Console.Clear()
+        Console.WriteLine("Current Track: " + ReadTextFile("\data\tracknames.txt", input + 1))
+        BlankLine()
+        Console.WriteLine("A & D - Select Track")
+        Console.WriteLine("0 - Back")
+        BlankLine()
+        PlayMusic(ReadTextFile("\data\trackinternalnames.txt", input + 1), True)
+        Return Console.ReadKey(True).KeyChar
+    End Function
 
     Public Sub PlayMusic(track As String, isLoop As Boolean)
         If track <> currentlyPlayingTrack And isMusicMuted = False Then

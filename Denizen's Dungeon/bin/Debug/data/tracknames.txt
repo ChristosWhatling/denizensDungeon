@@ -1,0 +1,38 @@
+Main Menu: "Where Are You Who Am I" by Diggory4II
+Dungeon Theme 0: "Prelude"
+Dungeon Theme 1: "Alveare Verto", a remix of "Sacrificial" by Danny Baranowsky and "" by ???
+Dungeon Theme 2: "Land of Bits and Pops" by Diggory4II
+Dungeon Theme 3: "Alchemize, Bitch" by Diggory4II
+Dungeon Theme 4: "Expired Corners" by Panfex
+Dungeon Theme 5: "Can You Really Call This A Spire" by Diggory4II
+Dungeon Theme 6: "Wisp" by Panfex
+Dungeon Theme 7: "Flipped" by Panfex
+Dungeon Theme 8: "Locked" by Panfex
+Dungeon Theme 9: "Baba" by Panfex, sampling "Leaf Is Move - Forest of fall" by Arvi Teikari
+Dungeon Theme 10: "LAY YOUR PRANKS" by Diggory4II
+Ace's Theme: "dim me.helpwanted as boolean = true" by Panfex, based on "Twisted Birthday" by Allen Simpson
+Aki's Theme: "Bitter" by ohnunu
+Gudrun's Theme: "The Caretaker" by Knut "knutone" Lundin
+Laputis' Theme: "Cloud Fish ~ Moderato" by Panfex, a remix of "Cloud Fish" by Emelie F.S.
+El's Theme: "" by Knut "knutone" Lundin
+Specter's Theme: "Specter, The Unexpected" by Panfex
+Vee's Theme: "8-Ball Fluid Induced Amnesia" by Panfex, a remix of "MeGaLoVania" by Toby "Radiation" Fox & Joren "Tensei" de Bruin
+Video's Theme: "Your Second Symphony" by Panfex, a remix of "Video Killed The Radio Star" by The Buggles
+Battle Track 1: "Battle Against A Formidable Foe" by Panfex
+Battle Track 2: "Buttercup ~ Vivace" by Panfex, a remix of "Buttercup" by Jack Stauber
+Battle Track 3: "Hyphen" by Panfex
+Battle Track 4: "Wait" by Panfex
+Battle Track 5: "Radical Opponent" by Panfex
+Battle Track 6: "Scrambled Eggs" by Panfex
+Battle Track 7: "Stance" by Calypso, from "Hypercase" (2021)
+Battle Track 8: "Thursday" by Panfex
+Battle Track 9: "TFW" by Panfex
+Battle Track 10: "XX" by Panfex
+Battle Track 11: "Above" by Panfex
+Battle Track 12: "1Seven1Six" by Panfex
+Battle Intro: the battle intro sound from Earthbound
+Battle Victory: "Rise" by Panfex
+Battle Loss: "Cheers" by Panfex
+Denizen Battle: "Spillage" by Panfex
+Credits: "Mute" by Panfex
+it's an overworld kind of feel
