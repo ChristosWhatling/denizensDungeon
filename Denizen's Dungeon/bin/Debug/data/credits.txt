@@ -1,11 +1,17 @@
 -CREDITS-
 Denizen's Dungeon V1.0
 
-Panfex - Coding and music
-put personal website link here once you've gotten around to doing that
+Panfex - coding, design, and music
+[personal website still in progress... come back later]
 
-Diggory4II - About half of the dungeon music
+fredinator_t1k_mge, a.k.a natan - creature, creator of el, and code wizard who helped a lot
+"No links, go away"
+
+Diggory4II - a lot of the dungeon music & the main menu theme
 youtube.com/channel/UCJQ6BN7XrV689-3CsX4MSKQ
+
+Knut "knutone" Lundin - creator of Gudrun, his theme & El's theme, as well as most of the playtesting
+[link TBA]
 
 Emelie F.S. - creator of Laputis & original composer of Cloud Fish (track remixed for Laputis' theme)
 instagram.com/emelie.f.s
@@ -13,14 +19,8 @@ instagram.com/emelie.f.s
 ohnunu - creator of Aki & her theme
 instagram.com/ohnunu.art
 
-Knut "knutone" Lundin - creator of Gudrun, his theme & El's theme, as well as most of the playtesting
-[]
-
-fredinator_t1k_mge, a.k.a natan - creature, creator of el, and code wizard who helped a lot
-"No links, go away"
-
 Special Thanks:
-Mum - For helping with testing and making sure I got this project finished on time for my college deadlines
+Mum & Dad - For helping with testing and making sure I got this project finished on time for my college deadlines
 Andrew Hussie - creator of Homestuck, which i like a fair bit
 The Homestuck Wiki (and the people who run it) - for helping me remember things
 
@@ -29,6 +29,6 @@ https://miffottah.github.io/mspatools/landgen/index.html &
 https://anikettos.tumblr.com/post/33242409398/pesterchum-chum-handle-list
 for the list of chumhandle words
 
-Thanks for playing my game!
+Thank you for playing my game!
 
 -/CREDITS-

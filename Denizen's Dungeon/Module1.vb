@@ -121,7 +121,7 @@
             Me.currentHandSize = Me.initialHandSize
             Me.hasInfiniteMaxQu = False
 
-            gristCache = 0
+            gristCache = 500
         End Sub
 
         'Stats
@@ -3513,7 +3513,7 @@
                     NPCname = "Áki"
                     trackName = "npcaki"
                     fileName = "aki"
-                    shopName = "put something here" 'PUT SOMETHING HERE AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                    shopName = "[Aki's Stash]"
                     chatColour = ConsoleColor.Cyan
                     chatBG = ConsoleColor.Black
                     priceVariance = 10
@@ -3537,7 +3537,7 @@
                     NPCname = "Gift of El"
                     trackName = "npcpass"
                     fileName = "elpassant"
-                    shopName = "[Battle Battallion's Bed & Breakfast]"
+                    shopName = "{El's Rucksack of Various Objects}"
                     chatColour = ConsoleColor.Black
                     chatBG = ConsoleColor.White
                     priceVariance = 0
@@ -5069,6 +5069,8 @@
             Console.WriteLine("NO")
         End If
         BlankLine()
+        Console.WriteLine("[S]ound Test")
+        BlankLine()
         Console.WriteLine("[R]eturn to Menu")
 
         Dim playerInput As String
@@ -5086,6 +5088,9 @@
                         currentlyPlayingTrack = ""
                     End If
                     Options()
+                    inputAccepted = True
+                Case "s"
+                    SoundTestMenu()
                     inputAccepted = True
                 Case "r"
                     inputAccepted = True
@@ -5106,12 +5111,7 @@
             counter += 1
         Loop Until creditsString = "-/CREDITS-"
     End Sub
-    Public Sub DebugMenu()
-        'For x = 1 To 120
-        'playerarray(1).WriteAction(x, x)
-        'BlankLine()
-        'Next
-
+    Public Sub SoundTestMenu()
         Dim endLoop As Boolean = False
         Dim currentTrack As Integer = 0
         Do
@@ -5128,10 +5128,18 @@
                     If currentTrack > 37 Then
                         currentTrack = 0
                     End If
-                Case "0"
+                Case "w"
                     endLoop = True
             End Select
         Loop Until endLoop
+    End Sub
+    Public Sub DebugMenu()
+        'For x = 1 To 120
+        'playerarray(1).WriteAction(x, x)
+        'BlankLine()
+        'Next
+
+
 
     End Sub
 
@@ -5353,7 +5361,7 @@
         Console.WriteLine("Current Track: " + ReadTextFile("\data\tracknames.txt", input + 1))
         BlankLine()
         Console.WriteLine("A & D - Select Track")
-        Console.WriteLine("0 - Back")
+        Console.WriteLine("W - Back")
         BlankLine()
         PlayMusic(ReadTextFile("\data\trackinternalnames.txt", input + 1), True)
         Return Console.ReadKey(True).KeyChar
@@ -5363,11 +5371,15 @@
         If track <> currentlyPlayingTrack And isMusicMuted = False Then
             currentlyPlayingTrack = track
             My.Computer.Audio.Stop()
-            If isLoop = True Then
-                My.Computer.Audio.Play(CurDir() & "\music\" & track & ".wav", AudioPlayMode.BackgroundLoop)
-            Else
-                My.Computer.Audio.Play(CurDir() & "\music\" & track & ".wav", AudioPlayMode.Background)
-            End If
+            Try
+                If isLoop = True Then
+                    My.Computer.Audio.Play(CurDir() & "\music\" & track & ".wav", AudioPlayMode.BackgroundLoop)
+                Else
+                    My.Computer.Audio.Play(CurDir() & "\music\" & track & ".wav", AudioPlayMode.Background)
+                End If
+            Catch ex As Exception
+                'do nothing
+            End Try
         End If
     End Sub
 
