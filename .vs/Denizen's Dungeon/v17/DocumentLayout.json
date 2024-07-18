@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github Repositories\\denizensDungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2DE9A6-008A-4788-B050-A454A471BB7A}|Denizen\u0027s Dungeon\\Denizen\u0027s Dungeon.vbproj|d:\\github repositories\\denizensdungeon\\denizen\u0027s dungeon\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FE2DE9A6-008A-4788-B050-A454A471BB7A}|Denizen\u0027s Dungeon\\Denizen\u0027s Dungeon.vbproj|solutionrelative:denizen\u0027s dungeon\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\Github Repositories\\denizensDungeon\\Denizen\u0027s Dungeon\\Module1.vb",
+              "RelativeDocumentMoniker": "Denizen\u0027s Dungeon\\Module1.vb",
+              "ToolTip": "D:\\Github Repositories\\denizensDungeon\\Denizen\u0027s Dungeon\\Module1.vb",
+              "RelativeToolTip": "Denizen\u0027s Dungeon\\Module1.vb",
+              "ViewState": "AQIAACoVAAAAAAAAAAAuwCwVAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-09-28T03:02:58.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
